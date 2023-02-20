@@ -6,11 +6,11 @@
   "cover": "https://i.imgur.com/ORiyPVl.jpg",
   "chapters": {
     "25": {
-      "title": "<Hacking>",
-      "volume": "<3>",
+      "title": "Hacking",
+      "volume": "3",
       "last_updated": "1616368746",
       "groups": {
-        "<V1 Manga Club>": "/proxy/api/imgur/chapter/<hFNSb5x>/"
+        "V1 Manga Club": "/proxy/api/imgur/chapter/hFNSb5x/"
       }
     }
   }
