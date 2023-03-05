@@ -1,25 +1,25 @@
 {
-  "title": "Blame!",
-  "description": "Part 2/5 of the readthrough",
-  "artist": "Tsutomu Nihei",
-  "author": "Tsutomu Nihei",
-  "cover": "https://i.imgur.com/ORiyPVl.jpeg",
-  "chapters": {
-    "25": {
-      "title": "Hacking",
-      "volume": "3",
-      "last_updated": "1677972433",
-      "groups": {
-        "V1 Manga Club": "/proxy/api/imgur/chapter/hFNSb5x/"
-      },
-"26": {
-      "title": "The Unstable Cave",
-      "volume": "3",
-      "groups": {
-        "V1 Manga Club": "/proxy/api/imgur/chapter/0ZHGCBl/"
-      },
-      "last_updated": "1677972433"
-    },
+   "title":"Blame!",
+   "description":"Part 2/5 of the readthrough",
+   "artist":"Tsutomu Nihei",
+   "author":"Tsutomu Nihei",
+   "cover":"https://i.imgur.com/ORiyPVl.jpeg",
+   "chapters":{
+      "25":{
+         "title":"Hacking",
+         "volume":"3",
+         "last_updated":"1677972433",
+         "groups":{
+            "V1 Manga Club":"/proxy/api/imgur/chapter/hFNSb5x/"
+         },
+         "26":{
+            "title":"The Unstable Cave",
+            "volume":"3",
+            "groups":{
+               "V1 Manga Club":"/proxy/api/imgur/chapter/0ZHGCBl/"
+            },
+            "last_updated":"1677972433"
+         }
+      }
    }
-  }
 }
