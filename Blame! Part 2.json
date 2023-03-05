@@ -28,6 +28,86 @@
             "groups":{
                "V1 Manga Club":"/proxy/api/imgur/chapter/gJsJXNU"
             }
-         }
+         },
+         "28":{
+            "title":"Version",
+            "volume":"3",
+            "last_updated":"1677972433",
+            "groups":{
+               "V1 Manga Club":"/proxy/api/imgur/chapter/XuVReHk"
+            }
+         },
+      "29":{
+            "title":"The Thirteenth Cave",
+            "volume":"3",
+            "last_updated":"1677972433",
+            "groups":{
+               "V1 Manga Club":"/proxy/api/imgur/chapter/uc8mBbd"
+            }
+         },
+       "30":{
+            "title":"Endless War",
+            "volume":"3",
+            "last_updated":"1677972433",
+            "groups":{
+               "V1 Manga Club":"/proxy/api/imgur/chapter/VezLAyT"
+            }
+         },
+        "31":{
+            "title":"Sanakan and Cibo",
+            "volume":"4",
+            "last_updated":"1677972433",
+            "groups":{
+               "V1 Manga Club":"/proxy/api/imgur/chapter/pEmYJSc"
+            }
+         },
+      "32":{
+            "title":"Vibrations",
+            "volume":"4",
+            "last_updated":"1677972433",
+            "groups":{
+               "V1 Manga Club":"/proxy/api/imgur/chapter/3VQnugI"
+            }
+         },
+       "33":{
+            "title":"Collapse",
+            "volume":"4",
+            "last_updated":"1677972433",
+            "groups":{
+               "V1 Manga Club":"/proxy/api/imgur/chapter/yJTb9US"
+            }
+         },
+       "34":{
+            "title":"Meltdown",
+            "volume":"4",
+            "last_updated":"1677972433",
+            "groups":{
+               "V1 Manga Club":"/proxy/api/imgur/chapter/YffQSmi"
+            }
+         },
+      "35":{
+            "title":"Annihilated",
+            "volume":"4",
+            "last_updated":"1677972433",
+            "groups":{
+               "V1 Manga Club":"/proxy/api/imgur/chapter/eYoQPvH"
+            }
+         },
+      "36":{
+            "title":"Beautiful Life",
+            "volume":"4",
+            "last_updated":"1677972433",
+            "groups":{
+               "V1 Manga Club":"/proxy/api/imgur/chapter/E2bKTnX"
+            }
+         },
+       "36":{
+            "title":"The Unofficial Megastructure",
+            "volume":"4",
+            "last_updated":"1677972433",
+            "groups":{
+               "V1 Manga Club":"/proxy/api/imgur/chapter/1DykKTw"
+            }
+         },
       }
    }
