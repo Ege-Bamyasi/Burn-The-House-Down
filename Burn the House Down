@@ -1,9 +1,9 @@
 {
-   "title":"Burn the House Down Pt. 2",
-   "description":"Part 2/4 of the readthrough | BGM Suggestion: https://youtu.be/kHBKBeBOAMw",
+   "title":"Burn the House Down Pt. 3",
+   "description":"Part 3/4 of the readthrough | BGM Suggestion: https://youtu.be/kHBKBeBOAMw",
    "artist":"Moyashi Fujisawa",
    "author":"Moyashi Fujisawa",
-   "cover":"https://i.imgur.com/jSH8Kwf.jpg",
+   "cover":"https://i.imgur.com/CtTIZFT.jpg",
    "chapters":{
       "1":{
          "title":"Barrette",
@@ -155,6 +155,86 @@
          "last_updated":"1696285250",
          "groups":{
             "V1 Manga Club":"/proxy/api/imgur/chapter/S3lPbHP"
+         }
+      },
+      "20":{
+         "title":"Snow Flurry",
+         "volume":"5",
+         "last_updated":"1697912074",
+         "groups":{
+            "V1 Manga Club":"/proxy/api/imgur/chapter/dleEA9x/"
+         }
+      },
+      "21":{
+         "title":"Downhill",
+         "volume":"5",
+         "last_updated":"1697912074",
+         "groups":{
+            "V1 Manga Club":"/proxy/api/imgur/chapter/rcLGDBL"
+         }
+      },
+      "22":{
+         "title":"Modulation",
+         "volume":"5",
+         "last_updated":"1697912074",
+         "groups":{
+            "V1 Manga Club":"/proxy/api/imgur/chapter/ie7wpov"
+         }
+      },
+      "23":{
+         "title":"Comeback",
+         "volume":"5",
+         "last_updated":"1697912074",
+         "groups":{
+            "V1 Manga Club":"/proxy/api/imgur/chapter/R7UC16X"
+         }
+      },
+      "24":{
+         "title":"A Chance Encounter",
+         "volume":"5",
+         "last_updated":"1697912074",
+         "groups":{
+            "V1 Manga Club":"/proxy/api/imgur/chapter/fQXL5vl"
+         }
+      },
+      "25":{
+         "title":"Momentary Distraction",
+         "volume":"6",
+         "last_updated":"1697912074",
+         "groups":{
+            "V1 Manga Club":"/proxy/api/imgur/chapter/sHNrxHl"
+         }
+      },
+      "26":{
+         "title":"Innocent Egoism",
+         "volume":"6",
+         "last_updated":"1697912074",
+         "groups":{
+            "V1 Manga Club":"/proxy/api/imgur/chapter/b7eXBen"
+         }
+      },
+      "27":{
+         "title":"Latent Heat Prelude",
+         "volume":"6",
+         "last_updated":"1697912074",
+         "groups":{
+            "V1 Manga Club":"/proxy/api/imgur/chapter/4y16vL5"
+         }
+      },
+      "28":{
+         "title":"Memory Paradox",
+         "volume":"6",
+         "last_updated":"1697912074",
+         "groups":{
+            "V1 Manga Club":"/proxy/api/imgur/chapter/zKLggTv
+         }
+      },
+      "29":{
+         "title":"Heat-haze Catastrophe",
+         "volume":"6",
+         "last_updated":"1697912074",
+         "groups":{
+            "V1 Manga Club":"/proxy/api/imgur/chapter/u3Ul27G
          }
       }
    }
