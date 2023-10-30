@@ -1,9 +1,9 @@
 {
-   "title":"Burn the House Down Pt. 3",
-   "description":"Part 3/4 of the readthrough | BGM Suggestion: https://youtu.be/kHBKBeBOAMw",
+   "title":"Burn the House Down Pt. 4 FINAL",
+   "description":"Part 4/4 of the readthrough | BGM Suggestion: https://youtu.be/kHBKBeBOAMw",
    "artist":"Moyashi Fujisawa",
    "author":"Moyashi Fujisawa",
-   "cover":"https://i.imgur.com/CtTIZFT.jpg",
+   "cover":"https://i.imgur.com/jqPxPpJ.jpg",
    "chapters":{
       "1":{
          "title":"Barrette",
@@ -235,6 +235,86 @@
          "last_updated":"1697912074",
          "groups":{
             "V1 Manga Club":"/proxy/api/imgur/chapter/u3Ul27G"
+         }
+      },
+      "30":{
+         "title":"Anzu Mitarai, Roaring Light",
+         "volume":"7",
+         "last_updated":"1696285250",
+         "groups":{
+            "V1 Manga Club":"/proxy/api/imgur/chapter/fQgpWjs"
+         }
+      },
+      "31":{
+         "title":"Makiko Mitarai, Creeping Shadow",
+         "volume":"7",
+         "last_updated":"1696285250",
+         "groups":{
+            "V1 Manga Club":"/proxy/api/imgur/chapter/2381kYX"
+         }
+      },
+      "32":{
+         "title":"Burn the House Down",
+         "volume":"7",
+         "last_updated":"1697912074",
+         "groups":{
+            "V1 Manga Club":"/proxy/api/imgur/chapter/dRV8ZRF/"
+         }
+      },
+      "33":{
+         "title":"Kiichi Mitarai, Roaming Light",
+         "volume":"7",
+         "last_updated":"1697912074",
+         "groups":{
+            "V1 Manga Club":"/proxy/api/imgur/chapter/Hv4nklS"
+         }
+      },
+      "34":{
+         "title":"Anzu Murata, Proffering Proposition",
+         "volume":"7",
+         "last_updated":"1697912074",
+         "groups":{
+            "V1 Manga Club":"/proxy/api/imgur/chapter/wmGW69F"
+         }
+      },
+      "35":{
+         "title":"A Wavering World",
+         "volume":"8",
+         "last_updated":"1697912074",
+         "groups":{
+            "V1 Manga Club":"/proxy/api/imgur/chapter/mbtBLuv"
+         }
+      },
+      "36":{
+         "title":"Even if I Can't Believe",
+         "volume":"8",
+         "last_updated":"1697912074",
+         "groups":{
+            "V1 Manga Club":"/proxy/api/imgur/chapter/UuQ4Neu"
+         }
+      },
+      "37":{
+         "title":"End of Innocence; Yearning for Affection",
+         "volume":"8",
+         "last_updated":"1697912074",
+         "groups":{
+            "V1 Manga Club":"/proxy/api/imgur/chapter/PEN0CcT"
+         }
+      },
+      "38":{
+         "title":"A Long Time Coming",
+         "volume":"8",
+         "last_updated":"1697912074",
+         "groups":{
+            "V1 Manga Club":"/proxy/api/imgur/chapter/lyIkdV0"
+         }
+      },
+      "39":{
+         "title":"After the Flames",
+         "volume":"8",
+         "last_updated":"1697912074",
+         "groups":{
+            "V1 Manga Club":"/proxy/api/imgur/chapter/lPGa58O"
          }
       }
    }
