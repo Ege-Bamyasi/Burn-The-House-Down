@@ -1,0 +1,73 @@
+{
+   "title":"Gon Pt. 1",
+   "description":"Part 1/3 of the readthrough | BGM Suggestion: https://youtu.be/gMN95HfTJ5E",
+   "artist":"Masashi Tanaka",
+   "author":"Masashi Tanaka",
+   "cover":"https://i.imgur.com/taQUyrL.jpeg",
+   "chapters":{
+      "1":{
+         "title":"Gon Eats and Sleeps",
+         "volume":"1",
+         "last_updated":"1731320782",
+         "groups":{
+            "V1 Manga Club":"/proxy/api/imgur/chapter/GLEyS4a/"
+         }
+      },
+      "2":{
+         "title":"Gon Goes for a Hunt in the Savannah",
+         "volume":"1",
+         "last_updated":"1731320782",
+         "groups":{
+            "V1 Manga Club":"/proxy/api/imgur/chapter/P4m86CM/"
+         }
+      },
+      "3":{
+         "title":"Gon Builds a House",
+         "volume":"1",
+         "last_updated":"1731320782",
+         "groups":{
+            "V1 Manga Club":"/proxy/api/imgur/chapter/jkmmW6U"
+         }
+      },
+      "4":{
+         "title":"Gon Flies",
+         "volume":"1",
+         "last_updated":"1731320782",
+         "groups":{
+            "V1 Manga Club":"/proxy/api/imgur/chapter/YBj3Glo"
+         }
+      },
+      "5":{
+         "title":"Gon Plays with a Giant Shark",
+         "volume":"2",
+         "last_updated":"1731320782",
+         "groups":{
+            "V1 Manga Club":"/proxy/api/imgur/chapter/15NyC7b"
+         }
+      },
+      "6":{
+         "title":"Gon Struggles against a Tick",
+         "volume":"2",
+         "last_updated":"1731320782",
+         "groups":{
+            "V1 Manga Club":"/proxy/api/imgur/chapter/NggIJI9"
+         }
+      },
+      "7":{
+         "title":"Gon Gets Angry at the Forest",
+         "volume":"2",
+         "last_updated":"1731320782",
+         "groups":{
+            "V1 Manga Club":"/proxy/api/imgur/chapter/uIl0SiG"
+         }
+      },
+      "8":{
+         "title":"Gon Lives with the Penguins",
+         "volume":"2",
+         "last_updated":"1731320782",
+         "groups":{
+            "V1 Manga Club":"/proxy/api/imgur/chapter/pTs8288"
+         }
+      }
+   }
+}
