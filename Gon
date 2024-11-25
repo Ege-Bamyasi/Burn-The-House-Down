@@ -1,9 +1,9 @@
 {
-   "title":"Gon Pt. 1",
-   "description":"Part 1/3 of the readthrough | BGM Suggestion: https://youtu.be/gMN95HfTJ5E",
+   "title":"Gon Pt. 2",
+   "description":"Part 2/3 of the readthrough | BGM Suggestion: https://youtu.be/gMN95HfTJ5E",
    "artist":"Masashi Tanaka",
    "author":"Masashi Tanaka",
-   "cover":"https://i.imgur.com/isvBBLi.jpeg",
+   "cover":"https://i.imgur.com/KAfAZNb.jpeg",
    "chapters":{
       "1":{
          "title":"Gon Eats and Sleeps",
@@ -67,6 +67,62 @@
          "last_updated":"1731320782",
          "groups":{
             "V1 Manga Club":"/proxy/api/imgur/chapter/pTs8288"
+         }
+      },
+      "9":{
+         "title":"Gon Goes Down The Big River",
+         "volume":"3",
+         "last_updated":"1732554391",
+         "groups":{
+            "V1 Manga Club":"/proxy/api/imgur/chapter/YoybGLv/"
+         }
+      },
+      "10":{
+         "title":"Gon Glares",
+         "volume":"3",
+         "last_updated":"1732554391",
+         "groups":{
+            "V1 Manga Club":"/proxy/api/imgur/chapter/IuHM2ag/"
+         }
+      },
+      "11":{
+         "title":"Gon Goes Mushroom Hunting",
+         "volume":"3",
+         "last_updated":"1732554391",
+         "groups":{
+            "V1 Manga Club":"/proxy/api/imgur/chapter/vT94kW8"
+         }
+      },
+      "12":{
+         "title":"Gon Fights With Wolf Brothers",
+         "volume":"3",
+         "last_updated":"1732554391",
+         "groups":{
+            "V1 Manga Club":"/proxy/api/imgur/chapter/98bJrrs"
+         }
+      },
+      "13":{
+         "title":"Gon Becomes A Turtle",
+         "volume":"4",
+         "last_updated":"1732554391",
+         "groups":{
+            "V1 Manga Club":"/proxy/api/imgur/chapter/dttq9cY"
+         }
+      },
+      "14":{
+         "title":"Gon Journeys Into The Desert",
+         "volume":"4",
+         "last_updated":"1732554391",
+         "groups":{
+            "V1 Manga Club":"/proxy/api/imgur/chapter/Sw0WOKp"
+         }
+      },
+      "15":{
+         "title":"Gon And His Posse",
+         "volume":"4",
+         "last_updated":"1732554391",
+         "groups":{
+            "V1 Manga Club":"/proxy/api/imgur/chapter/rCMxLkJ"
          }
       }
    }
